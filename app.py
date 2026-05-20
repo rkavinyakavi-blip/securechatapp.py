@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("Secure Chat App")
+st.title("My streamlit app")
 
-st.write("My Project is Running Successfully")
+st.write("Hello this is my project")
